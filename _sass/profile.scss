@@ -1,0 +1,49 @@
+.profile {
+    background-color: #A3DDCB !important;
+    text-align: center;
+    height: 530px;
+    margin-bottom: 50px;
+    h1 {
+        font-size: 50px;
+        font-weight: 700;
+        color: white;
+    }
+    
+    img {
+        
+        max-width: 100%;
+        max-height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;        
+        padding: 20px;
+    }
+    
+    .profile-picture {
+        margin-top: auto;
+        margin-bottom: 50px;
+        height: 200px;
+    }
+    .themes {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        
+        ul {
+            list-style-type: none;
+            padding: 10px;
+            li{
+                float: left;
+                padding: 10px;
+                img {
+                    border-radius: 0;
+                    width: 50px;
+                    
+                }
+
+            }
+        }
+        
+    }
+
+}
