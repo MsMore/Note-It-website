@@ -39,8 +39,8 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     font-family: "Open Sans", sans-serif;
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 5px;
 }
 
 
@@ -76,6 +76,7 @@ h2 {
     margin-top: 30px;
     font-weight: 700;
     text-align: center;
+    font-size: 24px;
 }
 
 .card {
@@ -85,7 +86,7 @@ h2 {
     margin: 20px 30px;
     background-color: #A7D0CD;
     border-radius: .375rem;
-    border: 3px solid #648a87;
+    border: 5px solid #50726f;
     padding: 1.5em;
     font-size: 1.2em;
 
@@ -98,7 +99,7 @@ a {
 .info {
     p {
         margin-top: 5px;
-        margin: 0px;
+        margin-bottom: 5px;
         text-align: left;
     }
 
@@ -106,6 +107,7 @@ a {
         font-size: 500;
         font-weight: bold;
         text-align: center;
+        margin-bottom: 15px;
     }
 
     .location {
