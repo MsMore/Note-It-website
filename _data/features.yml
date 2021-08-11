@@ -1,16 +1,16 @@
 - title: Notetaking
-  date: Write your notes and store them in the extension
+  date: Write your notes and click the blue plus button and your notes will be stored automatically stored in the extension 
 
 
-- title: Feature 2
-  date: description
+- title: Searching
+  date: Type in the text box and click the green search button to search your text in a new tab, or also click search on a old note
 
-- title: Feature 3
-  date: description
+- title: Downloading
+  date: By clicking the yellow download button your notes can be quickly saved to your computer to be available outside of the extension
 
-- title: Feature 4
-  date: description
+- title: Deleting
+  date: Click the red delete button to clear your stored notes or click the delete button on a single note to delete just that note
 
 
-- title: Feature 5
-  date: description
+- title: Highlighting
+  date: Click the purple highlighter button to activiate the highlighter and highlight the text you wish to take a note of
