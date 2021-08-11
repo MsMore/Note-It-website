@@ -2,8 +2,9 @@
     display: grid;
     grid-gap: 20px;
     margin: 0px 30px;
-    background-color: #E8E9A1;
-    border-radius: .375rem;
+    background-color: #F5C0C0;
+    border-radius: 15px;
+    border: 3px solid rgb(194, 123, 123);
     padding: 1.5em;
     font-size: 1.0em;
     margin-bottom: 20px;
@@ -12,6 +13,7 @@
     h1{
       font-size: 2em;
       padding-bottom: 20px;
+      margin-bottom: 20px;
     }
 }
 
