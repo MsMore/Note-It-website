@@ -3,4 +3,11 @@
   email:  more.riddhi11@gmail.com
   funfact: I am a Griffindor
   bio1: Hello future NoteIt users! We want to help you organize. Our chrome extension NoteIt is a perfect alternative to pen and paper notetaking. While using NoteIt you can take take and save notes, opens new tabs to search from your note list, as well as saving highlighted text to your notes. This way all your notes can be organized all in one place in your browser in the NoteIt popup!
-  bio2: Vivamus accumsan lacinia lorem commodo tincidunt. Vestibulum eu justo orci. Nullam id magna a magna finibus elementum. Curabitur nec fermentum tellus. Aliquam erat volutpat. Phasellus pretium iaculis massa ac pellentesque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer vel mollis urna, eget tincidunt eros. Quisque dictum efficitur arcu ut bibendum.
+  bio2: How to use this extension!
+  bio3: - Clone this repository to your computer
+        - To add the extension on chrome go to chrome://extensions
+        - Enable the developer mode in the upper right corner
+        - Click load unpacked in the upper left corner of the screen
+        - Select the folder that contais the manifest.json file
+        - Extension is installed!
+
