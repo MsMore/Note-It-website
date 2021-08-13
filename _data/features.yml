@@ -1,22 +1,27 @@
 - title: Notetaking
-  date: Write your notes and click the blue plus button and your notes will be stored automatically stored in the extension 
-
+  desc: Write your notes and click the blue plus button and your notes will be stored automatically stored in the extension 
+  name: "add"
 
 - title: Searching
-  date: Type in the text box and click the green search button to search your text in a new tab, or also click search on a old note
+  desc: Type in the text box and click the green search button to search your text in a new tab, or also click search on a old note
+  name: "search"
 
 - title: Downloading
-  date: By clicking the yellow download button your notes can be quickly saved to your computer to be available outside of the extension
+  desc: By clicking the yellow download button your notes can be quickly saved to your computer to be available outside of the extension
+  name: "download"
 
 - title: Deleting
-  date: Click the red delete button to clear your stored notes or click the delete button on a single note to delete just that note
-
+  desc: Click the red delete button to clear your stored notes or click the delete button on a single note to delete just that note
+  name: "delete"
 
 - title: Highlighting
-  date: Click the purple highlighter button to activiate the highlighter and highlight the text you wish to take a note of
+  desc: Click the purple highlighter button to activiate the highlighter and highlight the text you wish to take a note of
+  name: "highlight"
 
 - title: Saving
-  date: Click the orange save button to save your notes you have stored in the extension to the database 
+  desc: Click the orange save button to save your notes you have stored in the extension to the database 
+  name: "save"
 
 - title: Receiving
-  date:  Click the tourquise button to retreive your saved notes from the database to add notes back to your extension
+  desc:  Click the tourquise button to retreive your saved notes from the database to add notes back to your extension
+  name: "retrieve"

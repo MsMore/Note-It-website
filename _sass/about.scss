@@ -9,9 +9,12 @@
     font-size: 1.0em;
     margin-bottom: 20px;
     margin-top: 80px;
-    margin-left: 190px;
-    margin-right: 190px;
+    margin-left: 40px;
+    margin-right: 40px;
 
+    .about{
+      padding: 20px;
+    }
   
     h1{
       font-size: 2em;
@@ -28,8 +31,12 @@
 
 
   @media only screen and (max-width: 768px) {
+
     .about-section {
-      grid-template-columns: 1fr;
+      margin-bottom: 20px;
+      margin-top: 80px;
+      margin-left: 10px;
+      margin-right: 10px;
       font-size: 1em;
       padding: 1em;
     }

@@ -1,23 +1,30 @@
-.footer {
+.footer{
     background-color: #cdc6dd;
     width: cover;
-    height: 400px;
+    height: fit-content;
     border: 7px solid #78718b;
-    display: flex;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
     align-items: center;
     text-align: center;
     justify-content: center;
-    padding: 10px;
+    .footer-section {
+    display: flex;
     margin: 10px;
-    border-radius: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
     h2{
-        margin-top: -260px;
-        padding-top: 0%;
-        position: absolute;
+        margin: auto;
+        padding-bottom: 20px;
     }
     .profiles {
-        margin: 100px;
-        margin-top: 115px;
+        margin: 0px 100px;
+
+        flex: 1 1 150px;
+        
         ul {
             list-style-type: none;
             display:inline-block;
@@ -31,3 +38,4 @@
     }
     
 }
+

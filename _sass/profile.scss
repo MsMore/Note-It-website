@@ -1,6 +1,6 @@
 .profile {
     background-color: #C9E4C5 !important;
-    border: 7px solid #647a60;
+    border: 7px solid #B5CDA3;
     border-radius: 15px;
     text-align: center;
     height: 530px;
@@ -17,11 +17,13 @@
         font-size: 15px;
         font-weight: 700;
         color:rgb(70, 70, 70);
+        padding-bottom: 20px;
     }
     h3 {
         font-size: 18px;
         font-weight: 700;
         color:rgb(70, 70, 70);
+        padding: 10px;
     }
     
     img {
@@ -60,5 +62,18 @@
         }
         
     }
-
+    button {
+        background-color: #E8E9A1;
+        border: 2px solid #E6B566;
+        border-radius: 10px;
+    }
+    
 }
+
+@media only screen and (max-width: 768px) {
+
+    .profile{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+  }

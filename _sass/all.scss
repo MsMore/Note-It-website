@@ -41,7 +41,9 @@
     font-family: "Open Sans", sans-serif;
     padding-bottom: 20px;
     padding-top: 5px;
+
 }
+
 
 
 h2 {
@@ -84,12 +86,39 @@ h2 {
     flex-direction: row;
     align-items: center;
     margin: 20px 30px;
-    background-color: #A7D0CD;
     border-radius: .375rem;
-    border: 5px solid #50726f;
     padding: 1.5em;
     font-size: 1.4em;
 
+
+}
+#add{
+  background-color: #A7D0CD;
+  border-color: #415c5a;
+}
+#search{
+  background-color: #C9E4C5;
+  border-color: #5b7457;
+}
+#download{
+  background-color: #FFEEBB;
+  border-color: #c9ac57;
+}
+#delete{
+  background-color: #F5C0C0;
+  border-color: #be7777;
+}
+#highlight{
+  background-color: #cdc6dd;
+  border-color: #8f83aa;
+}
+#save{
+  background-color: #ffc1b0;
+  border-color: #a8786a;
+}
+#retrieve{
+  background-color: #b4e7d9;
+  border-color: #71a194;
 }
 
 a {
@@ -111,13 +140,8 @@ a {
         margin-bottom: 15px;
     }
 
-    .location {
-        font-size: medium;
-        font-weight: 400;
-    }
-
-    .dates {
-        font-size: small;
+    .desc {
+        font-size: large;
         color: #404040;
     }
 }
