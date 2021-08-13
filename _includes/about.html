@@ -1,15 +1,17 @@
 
+
 <div class="about-section">
+    <div class="tape" id="about-tape"></div>
     {% for item in site.data.about%}
 
   
-        <div class="about">
+        <div class="bio">
             <h1>Learn about NoteIt!</h1>
-            <p class="bio">{{item.bio1}}</p>
+            <p class="name">{{item.bio1}}</p>
             <br>
             <h1>How to Use NoteIt</h1>
-            <p class="bio">{{item.bio2}}</p>
+            <p class="name">{{item.bio2}}</p>
    
-        </div>
+    </div>
     {% endfor %}
 </div>
