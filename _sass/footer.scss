@@ -1,16 +1,32 @@
 .footer {
-    background-color: #E5707E;
+    background-color: #cdc6dd;
     width: cover;
-    height: 200px;
-    display: grid;
+    height: 400px;
+    border: 7px solid #78718b;
+    display: flex;
     align-items: center;
+    text-align: center;
     justify-content: center;
-    ul {
-        list-style-type: none;
-        padding: 10px;
-        li{
-            float: left;
-            padding: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    h2{
+        margin-top: -260px;
+        padding-top: 0%;
+        position: absolute;
+    }
+    .profiles {
+        margin: 100px;
+        margin-top: 115px;
+        ul {
+            list-style-type: none;
+            display:inline-block;
+            padding: 2px;
+            margin: 3px;
+            li{
+                display: inline-block;
+                padding: 10px;
+            }
         }
     }
     
