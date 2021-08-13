@@ -14,3 +14,9 @@
 
 - title: Highlighting
   date: Click the purple highlighter button to activiate the highlighter and highlight the text you wish to take a note of
+
+- title: Saving
+  date: Click the orange save button to save your notes you have stored in the extension to the database 
+
+- title: Receiving
+  date:  Click the tourquise button to retreive your saved notes from the database to add notes back to your extension

@@ -1,9 +1,9 @@
 .footer {
     background-color: #cdc6dd;
     width: cover;
-    height: 800px;
+    height: 400px;
     border: 7px solid #78718b;
-    display: grid;
+    display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -11,16 +11,22 @@
     margin: 10px;
     border-radius: 15px;
     h2{
-        margin-top: 1rem;
+        margin-top: -260px;
         padding-top: 0%;
+        position: absolute;
     }
-    ul {
-        list-style-type: none;
-        padding: 2px;
-        margin: 3px;
-        li{
-            display: inline-block;
-            padding: 10px;
+    .profiles {
+        margin: 100px;
+        margin-top: 115px;
+        ul {
+            list-style-type: none;
+            display:inline-block;
+            padding: 2px;
+            margin: 3px;
+            li{
+                display: inline-block;
+                padding: 10px;
+            }
         }
     }
     
